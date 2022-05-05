@@ -1,0 +1,5 @@
+class HYRequest {
+    request(){
+        
+    }
+}
